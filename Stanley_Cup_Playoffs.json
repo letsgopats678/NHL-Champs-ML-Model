@@ -1,0 +1,248 @@
+[
+    {
+        "Florida Panthers": {
+            "wins": 4,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Washington Capitals": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Toronto Maple Leafs": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Tampa Bay Lightning": {
+            "wins": 14,
+            "rounds_won": 3,
+            "Stanley Cup Champion": "NO"
+        },
+        "Carolina Hurricanes": {
+            "wins": 7,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Boston Bruins": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "New York Rangers": {
+            "wins": 10,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "Pittsburgh Penguins": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Colorado Avalanche": {
+            "wins": 16,
+            "rounds_won": 4,
+            "Stanley Cup Champion": "YES"
+        },
+        "Nashville Predators": {
+            "wins": 0,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Minnesota Wild": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "St. Louis Blues": {
+            "wins": 6,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Calgary Flames": {
+            "wins": 5,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Dallas Stars": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Edmonton Oilers": {
+            "wins": 8,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "Los Angeles Kings": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        }
+    },
+    {
+        "Boston Bruins": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Florida Panthers": {
+            "wins": 13,
+            "rounds_won": 3,
+            "Stanley Cup Champion": "NO"
+        },
+        "Toronto Maple Leafs": {
+            "wins": 5,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Tampa Bay Lightning": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Carolina Hurricanes": {
+            "wins": 8,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "New York Islanders": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "New Jersey Devils": {
+            "wins": 5,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "New York Rangers": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Colorado Avalanche": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Seattle Kraken": {
+            "wins": 7,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Dallas Stars": {
+            "wins": 10,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "Minnesota Wild": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Vegas Golden Knights": {
+            "wins": 16,
+            "rounds_won": 4,
+            "Stanley Cup Champion": "YES"
+        },
+        "Winnipeg Jets": {
+            "wins": 1,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Edmonton Oilers": {
+            "wins": 6,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Los Angeles Kings": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        }
+    },
+    {
+        "Florida Panthers": {
+            "wins": 15,
+            "rounds_won": 3,
+            "Stanley Cup Champion": "NO"
+        },
+        "Tampa Bay Lightning": {
+            "wins": 1,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Boston Bruins": {
+            "wins": 6,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Toronto Maple Leafs": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "New York Rangers": {
+            "wins": 10,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "Washington Capitals": {
+            "wins": 0,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Carolina Hurricanes": {
+            "wins": 6,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "New York Islanders": {
+            "wins": 1,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Dallas Stars": {
+            "wins": 10,
+            "rounds_won": 2,
+            "Stanley Cup Champion": "NO"
+        },
+        "Vegas Golden Knights": {
+            "wins": 3,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Winnipeg Jets": {
+            "wins": 1,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Colorado Avalanche": {
+            "wins": 6,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Vancouver Canucks": {
+            "wins": 7,
+            "rounds_won": 1,
+            "Stanley Cup Champion": "NO"
+        },
+        "Nashville Predators": {
+            "wins": 2,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        },
+        "Edmonton Oilers": {
+            "wins": 14,
+            "rounds_won": 3,
+            "Stanley Cup Champion": "NO"
+        },
+        "Los Angeles Kings": {
+            "wins": 1,
+            "rounds_won": 0,
+            "Stanley Cup Champion": "NO"
+        }
+    }
+]
